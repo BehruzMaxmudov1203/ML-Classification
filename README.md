@@ -110,4 +110,4 @@ Customer churn refers to customers stopping use of a service or product. Predict
   - knn_animation.gif  
   - decision_tree_grow.gif  
   - churn_pie.png  
-  - tenure_hist.png  
+  - tenure_hist.png  .
